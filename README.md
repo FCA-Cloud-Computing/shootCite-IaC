@@ -23,8 +23,8 @@ Este proyecto utiliza **Terraform** para gestionar y aprovisionar infraestructur
 
 1. **Clonar el repositorio**  
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_PROYECTO>
+   git clone git@github.com:FCA-Cloud-Computing/shootCite-IaC.git
+   cd shootCite--IaC
    ```
 
 2. **Inicializar Terraform**  
